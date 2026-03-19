@@ -26,7 +26,7 @@ DEFAULT_ANIME = [
     "Jujutsu Kaisen",
     "Demon Slayer",
     "Attack on Titan",
-    "Hunter x Hunter",
+    "DanDanDan",
     "One Punch Man",
     "My Hero Academia",
     "Bleach",
