@@ -26,7 +26,7 @@ DEFAULT_ANIME = [
     "Jujutsu Kaisen",
     "Demon Slayer",
     "Attack on Titan",
-    "DanDanDan",
+    "Dan Dan Dan",
     "One Punch Man",
     "My Hero Academia",
     "Bleach",
@@ -36,7 +36,17 @@ DEFAULT_ANIME = [
     "Chainsaw Man",
     "Kaiju No. 8",
     "Mashle: Magic and Muscles",
-    "Mob Psycho 100"
+    "Mob Psycho 100",
+    "Re:Zero - Starting Life in Another World",
+    "Hunter x Hunter",
+    "Naruto",
+    "One Piece",
+    "Dragon Ball Z",
+    "Dragon Ball Super",
+    "Dragon Ball GT",
+    "Dragon Ball",
+    "Dragon Ball Evolution",
+    "Redo of a Healer",
 ]
 
 # --- State Management ---
